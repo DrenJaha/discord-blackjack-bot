@@ -11,9 +11,9 @@ Blackjack Bot: A Discord bot that allows users to play the classic card game Bla
 6. Run discord_bot.py to start the bot.
 
 ## Usage
-To start the game: !start-blackjack
-To hit(get another card): !hit
-To stand(not get another card): !stand
+  - To start the game: !start-blackjack
+  - To hit(get another card): !hit
+  - To stand(not get another card): !stand
 The bot will automatically check for Blackjack (a hand with a total of 21).
 
 ## Dependencies
